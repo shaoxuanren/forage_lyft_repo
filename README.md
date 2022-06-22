@@ -1,2 +1,1 @@
-# Starter Repo
-This repo has everything you need to get started on the program, good luck!
+The code of my virtual internship code at Lyft. 
